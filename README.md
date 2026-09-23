@@ -12,10 +12,10 @@ Fecha: **23/09/2026**
 
 | Patrón | Implementado | Entendido |
 | --- | --- | --- |
-| Singleton | Sí | Sí/No |
-| Factory | Sí | Sí/No |
-| DAO | Sí | Sí/No |
-| Dependency Injection | Sí | Sí/No |
+| Singleton | Sí | Sí |
+| Factory | Sí | Sí |
+| DAO | Sí | Sí |
+| Dependency Injection | Sí | Sí |
 
 ## Reflexión final
 
